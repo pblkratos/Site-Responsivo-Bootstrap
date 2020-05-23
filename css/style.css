@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+ }
+
+.borda{
+    border: 1px solid black;
+}
+
+.bg-text{
+    background-color: burlywood;
+    padding: 20px;
+    margin: 15px 0px 15px 0px;
+}
+
+div section h1{
+    padding: 10px;
+}
